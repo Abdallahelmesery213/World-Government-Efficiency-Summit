@@ -143,6 +143,23 @@ header .right-part .nav2 ul li:not(:last-child)::after {
   bottom: 3px;
   background-color: #fff;
 }
+
+header .nav-1{
+  background-color: #b20507;
+  color: #fff;
+  padding: 12px 0;
+  margin-bottom: 0;
+}
+header .nav-2{
+  padding: 12px 0;
+  /* margin-bottom: 0; */
+}
+header .nav-2 li a{
+  color: #000;
+}
+header .nav-1 li a{
+  color: #fff;
+}
 /* end navbar */
 
 .counter-top {
